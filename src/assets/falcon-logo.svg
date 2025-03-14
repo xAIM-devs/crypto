@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="512" height="512" viewBox="0 0 512 512" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <path d="M256 64C176.5 64 112 128.5 112 208C112 287.5 176.5 352 256 352C335.5 352 400 287.5 400 208C400 128.5 335.5 64 256 64Z" 
+        fill="url(#gradient1)" stroke="#00ffff" stroke-width="8"/>
+  <path d="M256 112C203.2 112 160 155.2 160 208C160 260.8 203.2 304 256 304C308.8 304 352 260.8 352 208C352 155.2 308.8 112 256 112Z" 
+        fill="url(#gradient2)"/>
+  <path d="M288 176L256 208L224 176L192 208L256 272L320 208L288 176Z" 
+        fill="#ffffff" stroke="#b829ff" stroke-width="4"/>
+  <defs>
+    <linearGradient id="gradient1" x1="112" y1="64" x2="400" y2="352" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#b829ff" stop-opacity="0.2"/>
+      <stop offset="100%" stop-color="#00ffff" stop-opacity="0.2"/>
+    </linearGradient>
+    <linearGradient id="gradient2" x1="160" y1="112" x2="352" y2="304" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#b829ff" stop-opacity="0.4"/>
+      <stop offset="100%" stop-color="#00ffff" stop-opacity="0.4"/>
+    </linearGradient>
+  </defs>
+</svg> 
